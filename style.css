@@ -3,10 +3,47 @@ body {
   background-image: url("https://www.transparenttextures.com/patterns/purty-wood.png");
 }
 
+nav {
+  font-family: "Cinzel", serif;
+  font-family: "Open Sans", sans-serif;
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/rocky-wall.png");
+}
+
 h2 {
   text-align: center;
+  font-family: "Cinzel", serif;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.text-white {
+  color: black;
+}
+
+.text-dark {
+  font-family: "Cinzel", serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+.card-body {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/rocky-wall.png");
 }
 
 .products-p {
   text-align: center;
+}
+
+.carousel-inner {
+  height: 550px;
+}
+
+.container {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/rocky-wall.png");
+}
+
+.text-muted {
+  color: black !important;
 }
