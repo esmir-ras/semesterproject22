@@ -47,3 +47,7 @@ h2 {
 .text-muted {
   color: black !important;
 }
+
+.navbar-brand img {
+  width: 169px;
+}
